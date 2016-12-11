@@ -1,0 +1,24 @@
+{
+  "name": "tsabot",
+  "version": "1.0.0",
+  "description": "testing bot for tsa",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kuramu1108/tsafbbot.git"
+  },
+  "author": "kuramu1108",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kuramu1108/tsafbbot/issues"
+  },
+  "homepage": "https://github.com/kuramu1108/tsafbbot#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "request": "^2.79.0"
+  }
+}
